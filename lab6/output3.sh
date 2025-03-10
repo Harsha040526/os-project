@@ -1,1 +1,4 @@
-wc -l file.txt
+ls -l
+
+
+Output:List of all files in desktop
