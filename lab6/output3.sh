@@ -1,2 +1,1 @@
-echo "This is additional text." >> file.txt
-cat file.tx
+wc -l file.txt
